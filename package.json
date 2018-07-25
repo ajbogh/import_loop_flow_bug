@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/ajbogh/import_loop_flow_bug.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^23.3.0",
